@@ -21,16 +21,13 @@ Second year Bachelor of Technology(B. Tech.) student in Computer Science and Eng
 - ⚡ Fun fact: I love to code 🤪 
 - 
 
-## Technically. . 
+
+
+<img align="left" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=adi-code22" />
+
+
+## Technically. . .
 - 💻 Languages: Python, Java, C, HTML, CSS
 - 💻 Frameworks: Flutter, Tensorflow/Keras, Spacy, Arduino
 - 💻 Database: Firebase, MySQL, MongoDB
 - 💻 OS: Windows, Linux
-
-
-
-<!--
-**adi-code22/adi-code22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
--->
