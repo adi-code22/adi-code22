@@ -6,7 +6,7 @@
 </p>
 
 ## AdityA here,  👋
-Second year Bachelor of Technology(B. Tech.) student in Computer Science and Engineering, interested in latest IT technologies and the same curiosity led me in mastering domains like Mobile Application Development and Machine Learning. A fast learner, team player who can work with challenging environment and diverse teams in combining manifold knowledge according to the requirements of the client. A Passionate ML student and thriving analyst with the ability to apply ML techniques & algorithms to solve real-world problems.
+Second year **Bachelor of Technology(B. Tech.)** student in **Computer Science and Engineering**, interested in latest IT technologies and the same curiosity led me in mastering domains like ***Mobile Application Development and Machine Learning***. A fast learner, team player who can work with challenging environment and diverse teams in combining manifold knowledge according to the requirements of the client. A Passionate ML student and thriving analyst with the ability to apply ML techniques & algorithms to solve real-world problems.
 
 <!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=adi-code22&show_icons=true&theme=gotham" alt="adi-code22" width="453" height="320"/> -->
 
@@ -21,7 +21,7 @@ Second year Bachelor of Technology(B. Tech.) student in Computer Science and Eng
 - ⚡ Fun fact: I love to code 🤪 
 - 
 
-
+<p>&nbsp;</p>
 
 <img align="left" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=adi-code22" />
 
