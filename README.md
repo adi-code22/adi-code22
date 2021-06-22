@@ -15,7 +15,7 @@ Second year **Bachelor of Technology(B. Tech.)** student in **Computer Science a
 - 
 - 🔭 I’m currently working as Mobile Application Developer Intern @ Noob Commiunity
 - 🌱 I’m currently learning Computer Vision and Natural Language Processing
-- 👯 I’m looking to collaborate on Flutter and Machine Learning Projects
+- 👯 I’m looking forward to collaborate on Flutter and Machine Learning Projects
 - 💬 Ask me about Flutter, Python, ML, Cyber Security, Crypto
 - 📫 How to reach me: adityakrishnan@cce.edu.in
 - ⚡ Fun fact: I love to code 🤪 
