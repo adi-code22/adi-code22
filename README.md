@@ -31,3 +31,11 @@ Second year **Bachelor of Technology(B. Tech.)** student in **Computer Science a
 - 💻 Frameworks: Flutter, Tensorflow/Keras, Spacy, Arduino
 - 💻 Database: Firebase, MySQL, MongoDB
 - 💻 OS: Windows, Linux
+
+
+<p align="center">
+<a href="https://github.com/adi-code22">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adi-code22&show_icons=true&include_all_commits=true&count_private=true&bg_color=333399,833ab4,c13584,f77737&title_color=fff&text_color=fff&icon_color=fff"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adi-code22&layout=compact&langs_count=8&bg_color=333399,833ab4,c13584,f77737&title_color=fff&text_color=fff&icon_color=fff"/>
+</a>
+</p>
