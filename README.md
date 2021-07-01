@@ -6,7 +6,7 @@
 <a href="https://twitter.com/AdityakrishnanP"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/adityakrishnan_22"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 </p>
-
+<!-- hi -->
 
 ## AdityA here,  👋
 Second year **Bachelor of Technology(B. Tech.)** student in **Computer Science and Engineering**, interested in latest IT technologies and the same curiosity led me in mastering domains like ***Mobile Application Development and Machine Learning***. A fast learner, team player who can work with challenging environment and diverse teams in combining manifold knowledge according to the requirements of the client. A Passionate ML student and thriving analyst with the ability to apply ML techniques & algorithms to solve real-world problems.
