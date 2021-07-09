@@ -32,7 +32,7 @@ Second year **Bachelor of Technology(B. Tech.)** student in **Computer Science a
 <img align="left" alt="GIF" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adi-code22&show_icons=true&include_all_commits=true&count_private=true&bg_color=333399,333399,333399,000000&title_color=fff&text_color=fff&icon_color=fff" />
 
 
-## Technically. . . .
+## Technically. . .
 - 💻 Languages: Python, Java, C, HTML, CSS
 - 💻 Frameworks: Flutter, Tensorflow/Keras, Spacy, Arduino
 - 💻 Database: Firebase, MySQL, MongoDB
