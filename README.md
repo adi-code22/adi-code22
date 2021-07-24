@@ -33,7 +33,7 @@ Second year **Bachelor of Technology(B. Tech.)** student in **Computer Science a
 
 
 ## Technically. . .
-- 💻 Languages: Python, Java, C, HTML, CSS
+- 💻 Languages: C/C++, Java, Python, HTML, CSS
 - 💻 Frameworks: Flutter, Tensorflow/Keras, Spacy, Arduino
 - 💻 Database: Firebase, MySQL, MongoDB
 - 💻 OS: Windows, Linux
