@@ -40,3 +40,13 @@ Second year **Bachelor of Technology(B. Tech.)** student in **Computer Science a
 
 
 
+<p>
+  <a href="https://www.buymeacoffee.com/aditya22"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aditya22" /></a>
+<br>
+<br>
+
+
+</p>
+
+
+
