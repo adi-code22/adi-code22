@@ -34,7 +34,7 @@ Third year **Bachelor of Technology(B. Tech.)** student in **Computer Science an
 
 
 ## Technically. . .
-- 💻 Languages: C/C++, Java, Python, HTML, CSS
+- 💻 Languages: C/C++, Java, Python, Dart.
 - 💻 Frameworks: Flutter, Tensorflow/Keras, Spacy, Arduino
 - 💻 Database: Firebase, MySQL, MongoDB
 - 💻 OS: Windows, Linux
