@@ -39,7 +39,7 @@ Third year **Bachelor of Technology(B. Tech.)** student in **Computer Science an
 - 💻 Database: Firebase, MySQL, MongoDB.
 - 💻 VCS: Github, Gitlab, Bitbucket.
 - 💻 Hosting: Heroku, Firebase Hosting, Replit.
-- 💻 Hardware: nodeMCU, arduino NANO, arduino MEGA.
+- 💻 Hardware: nodeMCU, arduino NANO, arduino UNO.
 - 💻 OS: Windows, Linux.
 
 
