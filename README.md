@@ -24,7 +24,7 @@ Third year **Bachelor of Technology(B. Tech.)** student in **Computer Science an
 - 💬 Ask me about Flutter, Python, ML, Cyber Security, Crypto.
 - 📫 How to reach me: adityakrishnanp007@gmail.com
 - ⚡ Fun fact: I love to code 🤪 
-- 
+
 
 <p>&nbsp;</p>
 
