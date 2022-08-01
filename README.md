@@ -1,4 +1,4 @@
-# [![Adityakrishnan header](https://github.com/adi-code22/adi-code22/blob/main/files/Adityakrishnan.png?raw=true)](https://www.linkedin.com/in/adityakrishnan007/)
+# [![Adityakrishnan header](https://github.com/adi-code22/adi-code22/blob/main/files/Adityakrishnannew.png?raw=true)](https://www.linkedin.com/in/adityakrishnan007/)
 ![](https://visitor-badge.glitch.me/badge?page_id=adi-code22.adi-code22)
 [![GitHub Adityakrishnan](https://img.shields.io/github/followers/adi-code22?label=follow&style=social)](https://github.com/adi-code22); 
 <p align='center'>
