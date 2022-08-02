@@ -19,12 +19,11 @@ Third year **Bachelor of Technology(B. Tech.)** student in **Computer Science an
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 
-- 🔭 I’m currently working as Full Stack Flutter Developer Intern @ Agriday.
-- 📬 Official mail?, drop in here: aditya@agridayco.com
-- 🌱 I’m currently learning Computer Vision and Natural Language Processing
-- 👯 I’m looking forward to collaborate on Flutter and Machine Learning Projects
-- 💬 Ask me about Flutter, Python, ML, Cyber Security, Crypto.
+- 🔭 I’m currently working as CEO at IEDC CCE | GDSC Lead, Christ College of Engineering.
 - 📫 How to reach me: adityakrishnanp007@gmail.com
+- 🌱 I’m currently learning GoLang and Natural Language Processing.
+- 👯 I’m looking forward to collaborate on Flutter and NLP Projects.
+- 💬 Ask me about Flutter, Python, ML, Cyber Security, Crypto.
 - ⚡ Fun fact: I love to code 🤪 
 
 
@@ -36,8 +35,8 @@ Third year **Bachelor of Technology(B. Tech.)** student in **Computer Science an
 
 
 ## Technically. . .
-- 💻 Languages: C/C++, Java, Python, Dart.
-- 💻 Frameworks: Flutter, Tensorflow/Keras, Spacy, Arduino.
+- 💻 Languages: C/C++, Java, Python, Dart, GoLang.
+- 💻 Frameworks: Flutter, NLP, Tensorflow/Keras, Spacy, Arduino.
 - 💻 Database: Firebase, MySQL, MongoDB.
 - 💻 VCS: Github, Gitlab, Bitbucket.
 - 💻 Hosting: Heroku, Firebase Hosting, Replit.
