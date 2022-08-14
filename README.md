@@ -8,14 +8,15 @@
 </p> 
  
 ## AdityA here,   👋
-Final year **Bachelor of Technology(B. Tech.)** student in **Computer Science and Engineering**, interested in latest IT technologies and the same curiosity led me in mastering domains like ***Mobile Application Development and Machine Learning***. A fast learner, team player who can work with challenging environment and diverse teams in combining manifold knowledge according to the requirements of the client. A Passionate programmer and thriving analyst with the ability to apply ML techniques & algorithms to solve real-world problems.
+Final year **Bachelor of Technology(B. Tech.)** student in **Computer Science and Engineering**, interested in latest IT technologies and the same curiosity led me in mastering domains like ***Mobile Application Development and Machine Learning***. A fast learner, team player who can work with challenging environment and diverse teams in combining manifold knowledge according to the requirements of my client. A Passionate programmer and thriving analyst with the ability to apply ML algorithms to solve real-world problems.
 
 <!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=adi-code22&show_icons=true&theme=gotham" alt="adi-code22" width="453" height="320"/> -->
  
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 
-- 🔭 I’m currently working as CEO at IEDC CCE | GDSC Lead, Christ College of Engineering.
+- 💻 Data Analyst Intern at **Ernst & Young (EY)**.
+- 🔭 I’m currently volunteering as CEO at IEDC CCE | GDSC Lead, Christ College of Engineering.
 - 📫 How to reach me: adityakrishnanp007@gmail.com
 - 🌱 I’m currently learning GoLang and Natural Language Processing.
 - 👯 I’m looking forward to collaborate on Flutter and NLP Projects.
