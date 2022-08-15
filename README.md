@@ -16,7 +16,7 @@ Final year **Bachelor of Technology(B. Tech.)** student in **Computer Science an
 
 - 
 - 💻 Data Analyst Intern at **Ernst & Young (EY)**.
-- 🔭 Volunteering as the CEO of [IEDC CCE](https://iedc.cce.edu.in/) | [GDSC Lead](https://gdsc.cce.edu.in/) | Christ College of Engineering.
+- 🔭 Volunteering as the CEO of [IEDC CCE](https://iedc.cce.edu.in/) | [GDSC Lead](https://gdsc-cce.netlify.app/#/) | Christ College of Engineering.
 - 📫 How to reach me: adityakrishnanp007@gmail.com
 - 🌱 Now learning GoLang and Natural Language Processing.
 - 👯 I’m looking forward to collaborate on Flutter and NLP Projects.
