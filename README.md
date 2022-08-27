@@ -22,7 +22,7 @@ Final year **Bachelor of Technology(B. Tech.)** student in **Computer Science an
 - 📫 How to reach me: adityakrishnanp007@gmail.com
 - 🌱 Now learning GoLang and Natural Language Processing.
 - 👯 I’m looking forward to collaborate on Flutter and NLP Projects.
-- 💬 Ask me about Flutter, Python, ML, Cyber Security, Crypto.
+- 💬 Ask me about Flutter, Python, ML, C/C++, Competitive Programming.
 - ⚡ Fun fact: I love to code 🤪 
 
 
