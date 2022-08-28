@@ -7,7 +7,6 @@
 <a href="https://instagram.com/adityakrishnan_22"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 </p> 
 
-
  
 ## AdityA here,   👋
 Final year **Bachelor of Technology(B. Tech.)** student in **Computer Science and Engineering**, interested in latest IT technologies and the same curiosity led me in mastering domains like ***Mobile Application Development and Machine Learning***. A fast learner, team player who can work with challenging environment and diverse teams in combining manifold knowledge according to the requirements of my client. A Passionate programmer and thriving analyst with the ability to apply ML algorithms to solve real-world problems.
@@ -27,11 +26,9 @@ Final year **Bachelor of Technology(B. Tech.)** student in **Computer Science an
 
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
-
-
-<img align="left" alt="GIF" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adi-code22&show_icons=true&include_all_commits=true&count_private=true&bg_color=333399,333399,333399,000000&title_color=fff&text_color=fff&icon_color=fff" />
-
+<img align="right" alt="GIF" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adi-code22&show_icons=true&include_all_commits=true&count_private=true&bg_color=333399,333399,333399,000000&title_color=fff&text_color=fff&icon_color=fff" />
 
 ## Technically. . .
 - 💻 Languages: C/C++, Java, Python, Dart, GoLang.
@@ -44,7 +41,15 @@ Final year **Bachelor of Technology(B. Tech.)** student in **Computer Science an
 
 
 
-<p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adi-code22" alt="adi-code22" /></a> </p>
+
+
+
+
+
+
+<p align="center">
   <a href="https://www.buymeacoffee.com/aditya22"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aditya22" /></a>
 <br>
 <br>
