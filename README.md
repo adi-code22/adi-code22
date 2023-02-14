@@ -16,6 +16,7 @@ Final year **Bachelor of Technology(B. Tech.)** student in **Computer Science an
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 
+- 💻 Software Engineer Intern at **Baton Systems**.
 - 💻 Data Analyst Intern at **Ernst & Young (EY)**.
 - 🔭 Volunteering as **CEO** of [IEDC CCE](https://iedc.cce.edu.in/) | [GDSC Lead](https://gdsc-cce.netlify.app/#/) | Christ College of Engineering.
 - 📫 How to reach me: adityakrishnanp007@gmail.com
