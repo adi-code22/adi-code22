@@ -32,7 +32,7 @@ Final year **Bachelor of Technology(B. Tech.)** student in **Computer Science an
 
 ## Technically. . .
 - 💻 Languages: C/C++, Java, Python, Dart, GoLang.
-- 💻 Frameworks: Flutter, NLP, Tensorflow/Keras, Spacy, Arduino.
+- 💻 Frameworks: Flutter, SpringBoot, NLP, Tensorflow/Keras, Spacy, Arduino.
 - 💻 Database: Firebase, MySQL, MongoDB.
 - 💻 VCS: Github, Gitlab, Bitbucket.
 - 💻 Hosting: Heroku, Firebase Hosting, Replit.
