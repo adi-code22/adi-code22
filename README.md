@@ -15,14 +15,14 @@ Final year **Bachelor of Technology(B. Tech.)** student in **Computer Science an
  
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 
-- 💻 Data Analyst Intern at **Ernst & Young (EY)**.
+- 💻 Software Developer Engineer at **Baton Syatems**
+- 💻 Ex-Data Analyst Intern at **Ernst & Young (EY)**.
 - 🔭 Volunteering as **CEO** of [IEDC CCE](https://iedc.cce.edu.in/) | [GDSC Lead](https://gdsc-cce.netlify.app/#/) | Christ College of Engineering.
 - 📫 How to reach me: adityakrishnanp007@gmail.com
-- 🌱 Now learning GoLang and Natural Language Processing.
+- 🌱 Now learning Advanced Computer Architecture and Spring Boot.
 - 👯 I’m looking forward to collaborate on Flutter and NLP Projects.
 - 💬 Ask me about Flutter, Python, ML, C/C++, Competitive Programming.
-- ⚡ Fun fact: I love to code 🤪 
+- ⚡ Fun fact: I ❤️ to code.
 
 
 <p>&nbsp;</p>
@@ -33,9 +33,9 @@ Final year **Bachelor of Technology(B. Tech.)** student in **Computer Science an
 ## Technically. . .
 - 💻 Languages: C/C++, Java, Python, Dart, GoLang.
 - 💻 Frameworks: Flutter, SpringBoot, NLP, Tensorflow/Keras, Spacy, Arduino.
-- 💻 Database: Firebase, MySQL, MongoDB.
+- 💻 Database: Firebase, MySQL, MongoDB, Hibernate, JPA.
 - 💻 VCS: Github, Gitlab, Bitbucket.
-- 💻 Hosting: Heroku, Firebase Hosting, Replit.
+- 💻 Hosting: Heroku, Firebase Hosting, AWS, Replit.
 - 💻 Hardware: nodeMCU, arduino NANO, arduino UNO.
 - 💻 OS: Windows, Linux.
 
