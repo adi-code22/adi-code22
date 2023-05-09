@@ -1,5 +1,5 @@
 # [![Adityakrishnan header](https://github.com/adi-code22/adi-code22/blob/main/files/Adityakrishnan.png?raw=true)](https://www.linkedin.com/in/adityakrishnan007/)
-![](https://visitor-badge.glitch.me/badge?page_id=adi-code22.adi-code22)
+![](https://komarev.com/ghpvc/?username=your-github-username)
 [![GitHub Adityakrishnan](https://img.shields.io/github/followers/adi-code22?label=follow&style=social)](https://github.com/adi-code22)
 <p align='center'>
 <a href="https://www.linkedin.com/in/adityakrishnan007/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
