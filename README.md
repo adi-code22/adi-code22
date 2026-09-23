@@ -1,6 +1,7 @@
-# [![Adityakrishnan header](https://github.com/adi-code22/adi-code22/blob/main/files/Adityakrishnan.png?raw=true)](https://www.linkedin.com/in/adi-code22/)
+# [![Adityakrishnan header](https://github.com/user-attachments/assets/eea0ab58-a329-48c1-aff9-de9b9ef73d80)](https://www.linkedin.com/in/adi-code22/)
 
 ![](https://komarev.com/ghpvc/?username=adi-code22)
+
 
 [![GitHub Adityakrishnan](https://img.shields.io/github/followers/adi-code22?label=follow\&style=social)](https://github.com/adi-code22)
 
